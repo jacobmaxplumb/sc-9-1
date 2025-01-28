@@ -1,0 +1,44 @@
+{
+  "surveyQuestions": [
+    {
+      "id": 1,
+      "text": "What is your favorite color?"
+    },
+    {
+      "id": 2,
+      "text": "How satisfied are you with our service?"
+    },
+    {
+      "id": 3,
+      "text": "What is your age?"
+    },
+    {
+      "id": 4,
+      "text": "Please provide any additional comments."
+    },
+    {
+      "id": "5c92",
+      "text": "something"
+    },
+    {
+      "id": "3906",
+      "text": "What is you favorite food?"
+    },
+    {
+      "id": "e2ad",
+      "text": "What was your first car?"
+    }
+  ],
+  "answers": [
+    {
+      "id": "7d57",
+      "questionId": 4,
+      "answer": "not at all"
+    },
+    {
+      "id": "d82a",
+      "questionId": "3906",
+      "answer": "pizza"
+    }
+  ]
+}
